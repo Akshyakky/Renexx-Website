@@ -93,8 +93,8 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/services/documentation" className="text-gray-400 hover:text-orange-500 transition-colors">
-                  Documentation
+                <Link href="/services/logistics" className="text-gray-400 hover:text-orange-500 transition-colors">
+                  Logistics Services
                 </Link>
               </li>
             </ul>
@@ -110,12 +110,18 @@ export default function Footer() {
               </li>
               <li className="flex items-center space-x-3">
                 <Phone className="text-orange-500" size={20} />
-                <span className="text-gray-400">+971 XX XXX XXXX</span>
+                <span className="text-gray-400">+971 54 546 0875</span>
               </li>
               <li className="flex items-center space-x-3">
                 <Mail className="text-orange-500" size={20} />
-                <a href="mailto:info@renexx.com" className="text-gray-400 hover:text-orange-500 transition-colors">
-                  info@renexx.com
+                <a href="mailto:info@svp-infotech.com" className="text-gray-400 hover:text-orange-500 transition-colors">
+                  info@svp-infotech.com
+                </a>
+              </li>
+              <li className="flex items-center space-x-3">
+                <Mail className="text-orange-500" size={20} />
+                <a href="mailto:sales@svp-infotech.com" className="text-gray-400 hover:text-orange-500 transition-colors">
+                  sales@svp-infotech.com
                 </a>
               </li>
             </ul>
