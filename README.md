@@ -1,4 +1,10 @@
+# Next.js Project
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+## Production
+
+Visit the live site at [renexx.com](https://renexx.com)
 
 ## Getting Started
 
