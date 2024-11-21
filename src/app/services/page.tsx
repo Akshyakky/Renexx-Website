@@ -57,7 +57,7 @@ export default function ServicesPage() {
             <div className="text-center">
               <Globe className="h-12 w-12 text-orange-500 mx-auto mb-4" />
               <h3 className="text-xl font-semibold mb-3">Local Expertise</h3>
-              <p className="text-gray-900">Deep understanding of Dubai's property market.</p>
+              <p className="text-gray-900">Deep understanding of Dubai&apos;s property market.</p>
             </div>
           </div>
         </div>

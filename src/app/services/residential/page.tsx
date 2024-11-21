@@ -1,5 +1,5 @@
 // app/services/residential/page.tsx
-import { Home, Shield, Clock, Newspaper, CheckCircle } from "lucide-react";
+import { Home, Shield, Clock, CheckCircle } from "lucide-react";
 
 export default function ResidentialPage() {
   return (
@@ -10,7 +10,7 @@ export default function ResidentialPage() {
         </div>
         <div className="relative max-w-7xl mx-auto px-4">
           <h1 className="text-4xl font-bold mb-6">Residential Property Services</h1>
-          <p className="text-xl text-gray-300 max-w-2xl">Comprehensive residential property management solutions tailored for Dubai's dynamic real estate market.</p>
+          <p className="text-xl text-gray-300 max-w-2xl">Comprehensive residential property management solutions tailored for Dubai&apos;s dynamic real estate market.</p>
         </div>
       </div>
 
