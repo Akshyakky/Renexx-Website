@@ -147,7 +147,7 @@ function ServiceCard({ icon, title, description }: { icon: React.ReactNode; titl
     <div className="bg-white p-8 rounded-xl shadow-lg hover:shadow-xl transition-all duration-200 transform hover:scale-[1.02] group">
       <div className="flex justify-center mb-6 group-hover:scale-110 transition-transform duration-200">{icon}</div>
       <h3 className="text-2xl font-bold text-gray-900 mb-4 text-center">{title}</h3>
-      <p className="text-gray-600 text-lg text-center leading-relaxed">{description}</p>
+      <p className="text-gray-900 text-lg text-center leading-relaxed">{description}</p>
     </div>
   );
 }
@@ -157,7 +157,7 @@ function FeatureCard({ icon, title, description }: { icon: React.ReactNode; titl
     <div className="flex flex-col items-center text-center p-6 rounded-xl hover:bg-gray-50 transition-all duration-200 transform hover:scale-[1.02] group">
       <div className="mb-8 group-hover:scale-110 transition-transform duration-200">{icon}</div>
       <h3 className="text-2xl font-bold text-gray-900 mb-4">{title}</h3>
-      <p className="text-gray-600 text-lg leading-relaxed">{description}</p>
+      <p className="text-gray-900 text-lg leading-relaxed">{description}</p>
     </div>
   );
 }
